@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormValidatiorExample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txt.hint.phone.number">Phone number</string>
+    <string name="txt.hint.password">Password</string>
+    <string name="txt.hint.confirm.password">Confirm password</string>
+    <string name="txt.button.create.account">Create Account</string>
+    <string name="txt.validation.required">Please fill out this field</string>
+    <string name="txt.phone.number.validation.failed">Please enter a valid phone number</string>
+    <string name="txt.password.validation.failed">Please check your password. It must have 6-30 characters.</string>
+    <string name="txt.confirm.password.validation.failed">The passwords you entered do not match. Please confirm your password.</string>
+</resources>
